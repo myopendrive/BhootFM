@@ -160,10 +160,10 @@ const buttons = [
     { category: "2010 August", label: "2010 08 20", path: "2010q3", id: "2010-08-20", size: "12.02" },
     { category: "2010 August", label: "2010 08 27", path: "2010q3", id: "2010-08-27", size: "22.96" },
 
-    // { category: "2010 September", label: "2010 09 03", path: "2010q3", id: "2010-09-03", size: "21.6" },
-    // { category: "2010 September", label: "2010 09 10", path: "2010q3", id: "2010-09-10", size: "2.82" },
-    // { category: "2010 September", label: "2010 09 17", path: "2010q3", id: "2010-09-17", size: "22.7" },
-    // { category: "2010 September", label: "2010 09 24", path: "2010q3", id: "2010-09-24", size: "22.3" },
+    { category: "2010 September", label: "2010 09 03", path: "2010q3", id: "2010-09-03", size: "21.70" },
+    { category: "2010 September", label: "2010 09 10", path: "2010q3", id: "2010-09-10", size: "2.82" },
+    { category: "2010 September", label: "2010 09 17", path: "2010q3", id: "2010-09-17", size: "22.80" },
+    { category: "2010 September", label: "2010 09 24", path: "2010q3", id: "2010-09-24", size: "22.30" },
 
     // 2010 Q4 (October - December)
     // { category: "2010 October", label: "2010 10 01", path: "2010q4", id: "2010-10-01", size: "" },
