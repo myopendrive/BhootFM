@@ -1,4 +1,4 @@
-const version = 'v1.1.02'; // 2025-03-20 02:00 am
+const version = 'v1.1.03'; // 2025-04-17 02:00 pm
 
 const urlsToCache = [
     // Root

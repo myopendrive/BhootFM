@@ -155,7 +155,9 @@ const categoryOrder = [
 
 // Array of buttons
 const buttons = [
+    
     // 2010 Q3 (July - September)
+    
     { category: "2010 August", label: "2010 08 13", path: "2010q3", id: "2010-08-13", size: "9.88" },
     { category: "2010 August", label: "2010 08 20", path: "2010q3", id: "2010-08-20", size: "12.02" },
     { category: "2010 August", label: "2010 08 27", path: "2010q3", id: "2010-08-27", size: "22.96" },
@@ -165,25 +167,25 @@ const buttons = [
     { category: "2010 September", label: "2010 09 17", path: "2010q3", id: "2010-09-17", size: "22.80" },
     { category: "2010 September", label: "2010 09 24", path: "2010q3", id: "2010-09-24", size: "22.30" },
 
-    // 2010 Q4 (October - December)
-    // { category: "2010 October", label: "2010 10 01", path: "2010q4", id: "2010-10-01", size: "" },
-    // { category: "2010 October", label: "2010 10 08", path: "2010q4", id: "2010-10-08", size: "" },
-    // { category: "2010 October", label: "2010 10 15", path: "2010q4", id: "2010-10-15", size: "" },
-    // { category: "2010 October", label: "2010 10 22", path: "2010q4", id: "2010-10-22", size: "" },
-    // { category: "2010 October", label: "2010 10 29", path: "2010q4", id: "2010-10-29", size: "" },
+    //2010 Q4 (October - December)
+    
+    { category: "2010 October", label: "2010 10 01", path: "2010q4", id: "2010-10-01", size: "26.85" },
+    { category: "2010 October", label: "2010 10 15", path: "2010q4", id: "2010-10-15", size: "25.35" },
+    { category: "2010 October", label: "2010 10 22", path: "2010q4", id: "2010-10-22", size: "22.07" },
+    { category: "2010 October", label: "2010 10 29", path: "2010q4", id: "2010-10-29", size: "20.72" },
 
-    // { category: "2010 November", label: "2010 11 05", path: "2010q4", id: "2010-11-05", size: "" },
-    // { category: "2010 November", label: "2010 11 12", path: "2010q4", id: "2010-11-12", size: "" },
-    // { category: "2010 November", label: "2010 11 19", path: "2010q4", id: "2010-11-19", size: "" },
-    // { category: "2010 November", label: "2010 11 26", path: "2010q4", id: "2010-11-26", size: "" },
+    { category: "2010 November", label: "2010 11 05", path: "2010q4", id: "2010-11-05", size: "23.66" },
+    { category: "2010 November", label: "2010 11 12", path: "2010q4", id: "2010-11-12", size: "27.09" },
+    { category: "2010 November", label: "2010 11 19", path: "2010q4", id: "2010-11-19", size: "18.41" },
+    { category: "2010 November", label: "2010 11 26", path: "2010q4", id: "2010-11-26", size: "27.58" },
 
-    // { category: "2010 December", label: "2010 12 03", path: "2010q4", id: "2010-12-03", size: "" },
-    // { category: "2010 December", label: "2010 12 10", path: "2010q4", id: "2010-12-10", size: "" },
-    // { category: "2010 December", label: "2010 12 17", path: "2010q4", id: "2010-12-17", size: "" },
-    // { category: "2010 December", label: "2010 12 24", path: "2010q4", id: "2010-12-24", size: "" },
-    // { category: "2010 December", label: "2010 12 31", path: "2010q4", id: "2010-12-31", size: "" },
+    { category: "2010 December", label: "2010 12 03", path: "2010q4", id: "2010-12-03", size: "8.45" },
+    { category: "2010 December", label: "2010 12 10", path: "2010q4", id: "2010-12-10", size: "18.02" },
+    { category: "2010 December", label: "2010 12 17", path: "2010q4", id: "2010-12-17", size: "18.00" },
+    { category: "2010 December", label: "2010 12 24", path: "2010q4", id: "2010-12-24", size: "22.36" },
 
     // 2011 Q1 (January - March)
+    
     // { category: "2011 January", label: "2011 01 07", path: "2011q1", id: "2011-01-07", size: "" },
     // { category: "2011 January", label: "2011 01 14", path: "2011q1", id: "2011-01-14", size: "" },
     // { category: "2011 January", label: "2011 01 21", path: "2011q1", id: "2011-01-21", size: "" },
@@ -200,6 +202,7 @@ const buttons = [
     // { category: "2011 March", label: "2011 03 25", path: "2011q1", id: "2011-03-25", size: "" },
 
     // 2011 Q2 (April - June)
+
     // { category: "2011 April", label: "2011 04 01", path: "2011q2", id: "2011-04-01", size: "" },
     // { category: "2011 April", label: "2011 04 08", path: "2011q2", id: "2011-04-08", size: "" },
     // { category: "2011 April", label: "2011 04 15", path: "2011q2", id: "2011-04-15", size: "" },
@@ -217,6 +220,7 @@ const buttons = [
     // { category: "2011 June", label: "2011 06 24", path: "2011q2", id: "2011-06-24", size: "" },
 
     // 2011 Q3 (July - September)
+
     // { category: "2011 July", label: "2011 07 01", path: "2011q3", id: "2011-07-01", size: "" },
     // { category: "2011 July", label: "2011 07 08", path: "2011q3", id: "2011-07-08", size: "" },
     // { category: "2011 July", label: "2011 07 15", path: "2011q3", id: "2011-07-15", size: "" },
@@ -235,6 +239,7 @@ const buttons = [
     // { category: "2011 September", label: "2011 09 30", path: "2011q3", id: "2011-09-30", size: "" },
 
     // 2011 Q4 (October - December)
+    
     // { category: "2011 October", label: "2011 10 07", path: "2011q4", id: "2011-10-07", size: "" },
     // { category: "2011 October", label: "2011 10 14", path: "2011q4", id: "2011-10-14", size: "" },
     // { category: "2011 October", label: "2011 10 21", path: "2011q4", id: "2011-10-21", size: "" },
@@ -252,6 +257,7 @@ const buttons = [
     // { category: "2011 December", label: "2011 12 30", path: "2011q4", id: "2011-12-30", size: "" },
 
     // 2012 Q1 (January - March)
+
     // { category: "2012 January", label: "2012 01 06", path: "2012q1", id: "2012-01-06", size: "" },
     // { category: "2012 January", label: "2012 01 13", path: "2012q1", id: "2012-01-13", size: "" },
     // { category: "2012 January", label: "2012 01 20", path: "2012q1", id: "2012-01-20", size: "" },
@@ -269,6 +275,7 @@ const buttons = [
     // { category: "2012 March", label: "2012 03 30", path: "2012q1", id: "2012-03-30", size: "" },
 
     // // 2012 Q2 (April - June)
+    
     // { category: "2012 April", label: "2012 04 06", path: "2012q2", id: "2012-04-06", size: "" },
     // { category: "2012 April", label: "2012 04 13", path: "2012q2", id: "2012-04-13", size: "" },
     // { category: "2012 April", label: "2012 04 20", path: "2012q2", id: "2012-04-20", size: "" },
